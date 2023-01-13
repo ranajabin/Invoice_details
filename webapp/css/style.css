@@ -1,0 +1,31 @@
+/* Enter your custom styles here */
+
+.sapMTB {
+    height: 2.75rem;
+    padding: 0 0.5rem 0 0.25rem;
+    background: #eb3838;
+}
+
+.sapMColumnHeader {
+    display: block;
+    flex: 1 1 auto;
+    background: #c4eb38;
+    padding: 0.875rem 0.5rem 1rem;
+}
+
+ .sapUiFormTitle {
+    border-width: 0.5rem;
+    border-color: #817d0d;
+    font-family: "72-Bold","72-Boldfull","72","72full",Arial,Helvetica,sans-serif;
+    height: 2.75rem;
+    line-height: 2.75rem;
+    background: #0a88b9;
+    padding: 0.875rem 0.5rem 1rem;
+}
+
+.sapMLabel {
+    color: #74ad07;
+    font-size: 1.2rem;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
